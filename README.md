@@ -7,7 +7,7 @@ This repository contains a Python script that scrapes job listings for Data Engi
 ## Authors
 
 - Aithepalli Suresh Lalith Srinivas
-- E Divya
+- Erapalapati Divya
 
 
 ## Features
